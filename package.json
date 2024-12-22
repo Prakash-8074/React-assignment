@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "init": "^0.1.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "name": "website",
+  "version": "1.0.0",
+  "description": "react project",
+  "main": "index.js",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "react",
+    "project"
+  ],
+  "author": "krishna",
+  "license": "ISC",
+  "browserslist": [
+    "last 2 versions",
+    "> 0.2%",
+    "not dead"
+  ]
+}
